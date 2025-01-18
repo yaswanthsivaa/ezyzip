@@ -34,7 +34,7 @@ export default function Nav() {
             </li>
             <li className="nav-item">
               <Link to="/shop" className="nav-link fs-4 fw-bold px-2">
-                Shop
+                shop
               </Link>
             </li>
             
