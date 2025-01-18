@@ -1,0 +1,15 @@
+/* .discount-badge {
+  position: relative;
+}
+
+.heart-icon {
+  opacity: 0; 
+  transition: opacity 0.3s ease-in-out; 
+  font-size: 1.2rem; 
+  top: -5px;
+  right: -5px;
+}
+
+.discount-badge:hover .heart-icon {
+  opacity: 1; 
+} */
