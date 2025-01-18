@@ -37,6 +37,7 @@ export default function Nav() {
                 Shop
               </Link>
             </li>
+            
             <li className="nav-item position-relative">
               <Link to="/cart" className="nav-link fs-4 fw-bold px-2">
                 Cart
