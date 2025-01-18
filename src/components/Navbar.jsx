@@ -64,7 +64,7 @@ export default function Nav() {
                   lineHeight: '1.5rem',
                   textAlign:'center',
                   color: 'white',
-                  fontWeight:'normal',
+                  fontWeight:'bold',
                   backgroundColor:'rgb(12, 36, 12)'
                 }}
               >
